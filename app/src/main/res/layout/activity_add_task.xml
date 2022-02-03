@@ -89,7 +89,7 @@
         style="@style/Widget.MaterialComponents.Button.OutlinedButton"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Cancelar"
+        android:text="@string/label_cancel"
         android:textAllCaps="false"
         app:layout_constraintBottom_toTopOf="@id/btn_new_task"
         app:layout_constraintEnd_toEndOf="@id/guide_end"
