@@ -16,12 +16,20 @@
         "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_timer.xml.flat",
+        "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\drawable\\ic_timer.xml"
+    },
+    {
         "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\drawable\\ic_add.xml"
     },
     {
         "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -36,8 +44,16 @@
         "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_navigate.xml.flat",
+        "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\drawable\\ic_baseline_navigate.xml"
+    },
+    {
         "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_task.xml.flat",
+        "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\layout\\activity_add_task.xml"
     },
     {
         "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -58,5 +74,9 @@
     {
         "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\Takeo\\AndroidStudioProjects\\TodoList\\app\\src\\main\\res\\drawable\\ic_calendar.xml"
     }
 ]

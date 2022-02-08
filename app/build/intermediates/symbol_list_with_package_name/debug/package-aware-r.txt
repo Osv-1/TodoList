@@ -2450,6 +2450,9 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_add
+drawable ic_baseline_navigate
+drawable ic_calendar
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2461,6 +2464,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_timer
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2604,6 +2608,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btn_new_task
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2707,6 +2712,8 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id guide_end
+id guide_start
 id guideline
 id header_title
 id hideable
@@ -2944,11 +2951,15 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id til_date
+id til_hour
+id til_title
 id time
 id title
 id titleDividerNoCustom
 id title_template
 id toggle
+id toolbar
 id top
 id topPanel
 id touch_outside
@@ -3068,6 +3079,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_task
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3205,6 +3217,12 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string label_cancel
+string label_date
+string label_hour
+string label_new_task
+string label_tasks
+string label_title
 string m3_ref_typeface_brand_display_regular
 string m3_ref_typeface_brand_medium
 string m3_ref_typeface_brand_regular
