@@ -20,17 +20,17 @@
         android:testOnly="true"
         android:theme="@style/Theme.ToDoList" >
         <activity
-            android:name="com.example.todolist.MainActivity"
-            android:exported="true" >
-        </activity>
-        <activity
-            android:name="com.example.todolist.ui.AddTaskActivity"
+            android:name="com.example.todolist.ui.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.todolist.ui.AddTaskActivity"
+            android:exported="true" >
         </activity>
 
         <provider

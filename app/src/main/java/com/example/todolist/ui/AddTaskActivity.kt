@@ -73,6 +73,7 @@ class AddTaskActivity : AppCompatActivity() {
             )
             TaskDataSource.insertTask(task)
             Log.e(TAG, "insertListerners: "+ TaskDataSource.getList() )
+            finish()
 
         }
         
