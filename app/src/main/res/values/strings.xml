@@ -7,4 +7,6 @@
     <string name="label_hour">Hora</string>
     <string name="label_new_task">Criar Tarefa</string>
     <string name="description_new_task">Nova tarefa</string>
+    <string name="dont_have_task">voce não tem tasks</string>
+    <string name="new_tasks">nova descrição</string>
 </resources>
